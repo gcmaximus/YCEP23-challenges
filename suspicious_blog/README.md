@@ -5,7 +5,7 @@ This blog seems to be hiding something from us. Can you uncover it?
 + **Author:** Jerald Yeo
 + **Discord Tag:** maximus#4723
 + **Category:** Web
-+ **Difficulty:** Easy
++ **Difficulty:** Medium
 
 ## Solution
 1. Inspect the source code of the page. Take note of the weird filenames in the `src` attributes.
