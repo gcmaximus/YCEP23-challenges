@@ -16,7 +16,7 @@ A man, Steven, has gone missing and it's your job to find him! A note was left b
 
     > follow me and i will buy a **Steam** game for you less than $25!
 
-Search up the username on Steam. Also, take note of the comment under the video:
+    Search up the username on Steam. Also, take note of the comment under the video:
 
     > who is **Vigenere**?
 
