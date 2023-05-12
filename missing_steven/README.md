@@ -14,17 +14,17 @@ A man, Steven, has gone missing and it's your job to find him! A note was left b
 
 3. In the "roblox sad story" video, at around 0:58, the username **"steventantantan_tan"** appears, with a sentence above it: 
 
-> follow me and i will buy a **Steam** game for you less than $25!
+    > follow me and i will buy a **Steam** game for you less than $25!
 
 Search up the username on Steam. Also, take note of the comment under the video:
 
-> who is **Vigenere**?
+    > who is **Vigenere**?
 
 4. In the Steam user's profile picture, the second portion of the encrypted flag is visible.
 
 5. Back in `note.txt`, the following text provides the key to decrypt the flag:
 
-> The key is **determination**.
+    > The key is **determination**.
 
 6. Use any tool (such as Cyberchef) to decrypt the flag using the Vigenere cipher and the key "determination" and obtain the flag.
 
