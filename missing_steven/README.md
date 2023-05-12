@@ -26,7 +26,7 @@ A man, Steven, has gone missing and it's your job to find him! A note was left b
 
     > The key is **determination**.
 
-6. Use any tool (such as Cyberchef) to decrypt the flag using the Vigenere cipher and the key "determination" and obtain the flag.
+6. Use any tool (such as Cyberchef) to decrypt the flag using the Vigenere cipher and obtain the flag.
 
 ## Flag
 ```
