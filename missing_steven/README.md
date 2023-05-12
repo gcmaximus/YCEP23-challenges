@@ -26,7 +26,7 @@ Search up the username on Steam. Also, take note of the comment under the video:
 
 > The key is **determination**.
 
-Use any tool (such as Cyberchef) to decrypt the flag using the Vigenere cipher and the key "determination" and obtain the flag.
+6. Use any tool (such as Cyberchef) to decrypt the flag using the Vigenere cipher and the key "determination" and obtain the flag.
 
 ## Flag
 ```
