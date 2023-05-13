@@ -8,7 +8,7 @@ A man, Steven, has gone missing and it's your job to find him! A note was left b
 + **Difficulty:** Medium
 
 ## Solution
-1. In `note.txt`, the first letter of every sentence spells out **"YOUTUBE"**. Search up "steven.tanROCKZ145" on Youtube.
+1. In `note.txt`, the first letter of every sentence spells out **"YOUTUBE"**. Search up **"steven.tanROCKZ145"** on Youtube.
 
 2. In the "whee whew" video, at around 1:45, take note of the first portion of an encrypted flag that appears briefly. 
 
