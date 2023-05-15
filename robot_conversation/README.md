@@ -13,7 +13,7 @@ In a world where robots coexist with humans, there are rumours of the robots pla
     > Initialising connection with #2719...
       Connection established!
       Hey, I need the password to the zip files of the secret plans.
-    > 
+    
     > I can't tell you right now. The humans could be listening to us.
     > 
     > No, they can't. Humans don't speak binary language, only we do!
