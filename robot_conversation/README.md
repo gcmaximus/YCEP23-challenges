@@ -28,7 +28,7 @@ In a world where robots coexist with humans, there are rumours of the robots pla
     > Yup, see you then!  
       Ending connection... Goodbye. 
 
-2. The flag `SWYJ2023{7B3_F4H6O463_0Z_W0GJO73L5}` is encrypted with Caesar cipher. Decrypt it using the shift length of `6` and obtain the flag.
+2. The flag `SWYJ2023{7B3_F4H6O463_0Z_W0GJO73L5}` is encrypted using Caesar cipher. Decrypt it using the shift length of `6` and obtain the flag.
 
 ## Flag
 ```
