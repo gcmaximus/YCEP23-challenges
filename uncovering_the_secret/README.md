@@ -41,7 +41,7 @@ YCEP2023{S34RCH1N6_FR0M_4CC0UN7_T0_4CC0UN7}
 + Email: z4ch4ryl1my1xu4n@gmail.com
 + Password: yti8758%TU76hkjh
 
-**LinkedIn** (__Sign in with Google__)
+**LinkedIn** (_Sign in with Google_)
 + Email: z4ch4ryl1my1xu4n@gmail.com
 + Password: yti8758%TU76hkjh
 
@@ -49,6 +49,6 @@ YCEP2023{S34RCH1N6_FR0M_4CC0UN7_T0_4CC0UN7}
 + Username: zachdoescodinthings
 + Password: yti8758%TU76hkjh
 
-**Twitter** (__Sign in with Google__)
+**Twitter** (_Sign in with Google_)
 + Email: z4ch4ryl1my1xu4n@gmail.com
 + Password: yti8758%TU76hkjh
