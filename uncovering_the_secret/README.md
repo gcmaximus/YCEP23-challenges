@@ -25,7 +25,7 @@ Zachary Lim Yi Xuan is suspected of hiding a secret piece of information. Please
     > ...  
     > ...  
 
-4. Search for the user @allziswell_ on Twitter and view his posts. Scroll down to see a Base64 encoded text:
+4. Search for the user `@allziswell_` on Twitter and view his posts. Scroll down to see a Base64 encoded text:
 
     > WUNFUDIwMjN7UzM0UkNIMU42X0ZSME1fNENDMFVON19UMF80Q0MwVU43fQ==
 
