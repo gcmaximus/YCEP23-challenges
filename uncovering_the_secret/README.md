@@ -13,7 +13,7 @@ Zachary Lim Yi Xuan is suspected of hiding a secret piece of information. Please
 
     > Gave the Linux penguin a makeover. It looks much better !
 
-There is a GitHub link partially visible in the Messages window in the screenshot `https://github.com/zachdoes...`. Search for a user in GitHub whose username starts with this. Part of the 2nd half of the username is also visible below to help in finding the correct user.
+    There is a GitHub link partially visible in the Messages window in the screenshot `https://github.com/zachdoes...`. Search for a user in GitHub whose username starts with this. Part of the 2nd half of the username is also visible below to help in finding the correct user.
 
 3. After locating user `zachdoescodinthings`, view his repositories. In the repository `coolAPI`, view `req.py`. Scroll to the bottom of the file to see his Twitter username (Line 62).
 
@@ -29,7 +29,7 @@ There is a GitHub link partially visible in the Messages window in the screensho
 
     > WUNFUDIwMjN7UzM0UkNIMU42X0ZSME1fNENDMFVON19UMF80Q0MwVU43fQ==
 
-Decode it to obtain the flag.
+    Decode it to obtain the flag.
 
 ## Flag
 ```
