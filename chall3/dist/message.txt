@@ -1,8 +1,0 @@
-create our own cipher -> participants must figure out cipher and decrypt the ciphertext
-provide hints (plaintext) 
-
-1. 
-2. Vigenere (key: patience)
-3. ROT13
-
-Flag

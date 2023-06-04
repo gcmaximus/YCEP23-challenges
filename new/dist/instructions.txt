@@ -1,8 +1,0 @@
-The flag has been put through a custom encryption system I have crafted! It is simple.
-
-This is how the encryption system works:
-
-1. Base64 encode
-2. Vigenere cipher (preserve punctuation)
-3. The first 5 characters are duplicated and inserted at the back of the string
-4. 
