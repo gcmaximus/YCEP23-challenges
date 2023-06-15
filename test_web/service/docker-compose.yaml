@@ -1,0 +1,10 @@
+version: '3'
+services:
+  test:
+    build:
+      context: .
+    image: web_test
+    working_dir: /home/ctf
+    container_name: web_test_container
+    ports:
+      - "8888:8888"
