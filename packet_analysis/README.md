@@ -8,7 +8,7 @@ Inspect the packets captured in this file and find the flag.
 + **Difficulty:** Easy
 
 ## Solution
-1. By following the TCP stream of any FTP packet, we can see that user `user29` logs in and downloads 3 files: `one.png`, `two.png`, `three.png`.
+1. By following the TCP stream of any FTP packet, we can see that the user logs in and downloads 3 files: `one.png`, `two.png`, `three.png`.
 
     > RETR one.png  
       150 Opening BINARY mode data connection for one.png (137185 bytes).  
