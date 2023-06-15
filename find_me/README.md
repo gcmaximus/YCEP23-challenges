@@ -1,7 +1,7 @@
 # Find Me
 Please help me find the flag in this sea of files!
 
-Flag Format: YCEP2023{...}
+Flag Format: `YCEP2023{...}`
 
 ## Summary
 + **Author:** Jerald Yeo
@@ -14,7 +14,7 @@ Flag Format: YCEP2023{...}
 ```
 grep "YCEP2023" find_me/*.txt
 ```
-The flag can be found in `454.txt`.
+    The flag can be found in `454.txt`.
 
 ## Flag
 ```

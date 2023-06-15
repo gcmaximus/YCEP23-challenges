@@ -3,7 +3,7 @@
 ## Description
 Please help me find the flag in this sea of files!
 
-Flag Format: YCEP2023{...}
+Flag Format: `YCEP2023{...}`
 
 ## Hints
 1. Have you heard of `grep` command?
