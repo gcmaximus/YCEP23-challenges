@@ -10,17 +10,17 @@ Inspect the packets captured in this file and find the flag.
 ## Solution
 1. By following the TCP stream of any FTP packet, we can see that user `user29` logs in and downloads 3 files: `one.png`, `two.png`, `three.png`.
 
-    > RETR one.png
-      150 Opening BINARY mode data connection for one.png (137185 bytes).
-      226 Transfer complete.
-    > ...
-    > RETR two.png
-      150 Opening BINARY mode data connection for two.png (6639 bytes).
-      226 Transfer complete.
-    > ...
-    > RETR three.png
-      150 Opening BINARY mode data connection for three.png (5206 bytes).
-      226 Transfer complete.
+    > RETR one.png  
+      150 Opening BINARY mode data connection for one.png (137185 bytes).  
+      226 Transfer complete.  
+    > ...  
+    > RETR two.png  
+      150 Opening BINARY mode data connection for two.png (6639 bytes).  
+      226 Transfer complete.  
+    > ...  
+    > RETR three.png  
+      150 Opening BINARY mode data connection for three.png (5206 bytes).  
+      226 Transfer complete.  
 
     The RETR command is issued when the client wants to download a copy of the file from the server.
 
