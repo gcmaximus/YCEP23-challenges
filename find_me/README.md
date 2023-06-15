@@ -14,7 +14,7 @@ Flag Format: `YCEP2023{...}`
 ```
 grep "YCEP2023" find_me/*.txt
 ```
-    The flag can be found in `454.txt`.
+The flag can be found in `454.txt`.
 
 ## Flag
 ```
