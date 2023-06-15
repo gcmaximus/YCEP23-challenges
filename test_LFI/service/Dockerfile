@@ -8,12 +8,6 @@ RUN apt-get -y install python3 python3-pip
 RUN groupadd -r ctf && useradd -r -g ctf ctf
 
 # challenge resources
-# COPY files/ /home/ctf/files/
-# COPY templates/ /home/ctf/templates/
-# COPY flag.txt /home/ctf/flag.txt
-# COPY requirements.txt /home/ctf/requirements.txt
-# COPY app.py /home/ctf/app.py
-
 COPY . /home/ctf
 
 # permissions
