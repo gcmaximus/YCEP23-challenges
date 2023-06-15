@@ -3,7 +3,7 @@
 ## Description
 I learnt from my cryptography lesson that hashes are irreversible. Try finding the flag!
 
-Flag Format: YCEP2023{string_found}
+Flag Format: `YCEP2023{string_found}`
 
 ## Flag
 ```
