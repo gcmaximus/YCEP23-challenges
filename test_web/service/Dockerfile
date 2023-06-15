@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.04
 
 # libraries
 RUN apt-get update
@@ -30,7 +30,7 @@ RUN python3 -m pip install -r /home/ctf/requirements.txt
 # switch to ctf user
 USER ctf
 
-
+WORKDIR /home/ctf
 
 # run app.py
-CMD ["python3", "/home/ctf/app.py"]
+CMD ["python3", "app.py"]

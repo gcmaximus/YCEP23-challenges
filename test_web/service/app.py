@@ -16,12 +16,12 @@ def read():
         filename = request.form.get("filename")
         try:
             # print('dirname:     ', os.path.dirname(__file__))
-            filename = f'/home/ctf/files/{filename}'
-            with open(filename, 'r') as f:
+            filename_path = f'files/{filename}'
+            with open(filename_path, 'r') as f:
                 content = f.read()
                 return f'''
-                <h1>File Contents:</h1>
-                <h2>{content}</h2>'''
+                <h1>Contents of {filename}:</h1>
+                <p>{content}</p>'''
             
         except FileNotFoundError:
             return '<h2>File Not Found</h2>'
