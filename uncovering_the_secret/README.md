@@ -35,20 +35,3 @@ Zachary Lim Yi Xuan is suspected of hiding a secret piece of information. Please
 ```
 YCEP2023{S34RCH1N6_FR0M_4CC0UN7_T0_4CC0UN7}
 ```
-
-## Account Credentials
-**Gmail Account**
-+ Email: z4ch4ryl1my1xu4n@gmail.com
-+ Password: yti8758%TU76hkjh
-
-**LinkedIn** (_Sign in with Google_)
-+ Email: z4ch4ryl1my1xu4n@gmail.com
-+ Password: yti8758%TU76hkjh
-
-**GitHub**
-+ Username: zachdoescodinthings
-+ Password: yti8758%TU76hkjh
-
-**Twitter** (_Sign in with Google_)
-+ Email: z4ch4ryl1my1xu4n@gmail.com
-+ Password: yti8758%TU76hkjh
