@@ -32,12 +32,3 @@ A man, Steven, has gone missing and it's your job to find him! A note was left b
 ```
 YCEP2023{ST3V3N_T4N_1S_S4F3}
 ```
-
-## Account Credentials
-**Youtube (Gmail account)**
-+ Email: steventanzzzzzzz@gmail.com
-+ Password: sT3v3nTANN123
-
-**Steam Account**
-+ Username: steventantantan_tan
-+ Password: sT3v3nTANN123
